@@ -7,7 +7,7 @@ public class area_rectangle{
         System.out.print("Enter the height of the rectangle: ");
         double height=input.nextDouble();
         System.out.print("Enter the width of the rectangle: ");
-        double width =input.nextDouble();
+        double width =input.nextDouble(); 
 
         double area = height*width;
 
